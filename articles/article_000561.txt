@@ -1,0 +1,51 @@
+In the typical textbook picture, volcanoes, such as those that are forming the Hawaiian islands, erupt when magma gushes out as narrow jets from deep inside Earth. But that picture is wrong, according to a new study from researchers at Caltech and the University of Miami in Florida. 
+  
+ New seismology data are now confirming that such narrow jets don't actually exist, says Don Anderson, the Eleanor and John R. McMillian Professor of Geophysics, Emeritus, at Caltech. In fact, he adds, basic physics doesn't support the presence of these jets, called mantle plumes, and the new results corroborate those fundamental ideas. 
+  
+ "Mantle plumes have never had a sound physical or logical basis," Anderson says. "They are akin to Rudyard Kipling's 'Just So Stories' about how giraffes got their long necks." 
+  
+ Anderson and James Natland, a professor emeritus of marine geology and geophysics at the University of Miami, describe their analysis online in the September 8 issue of the Proceedings of the National Academy of Sciences. 
+  
+ According to current mantle-plume theory, Anderson explains, heat from Earth's core somehow generates narrow jets of hot magma that gush through the mantle and to the surface. The jets act as pipes that transfer heat from the core, and how exactly they're created isn't clear, he says. But they have been assumed to exist, originating near where the Earth's core meets the mantle, almost 3,000 kilometers underground—nearly halfway to the planet's center. The jets are theorized to be no more than about 300 kilometers wide, and when they reach the surface, they produce hot spots. 
+  
+ While the top of the mantle is a sort of fluid sludge, the uppermost layer is rigid rock, broken up into plates that float on the magma-bearing layers. Magma from the mantle beneath the plates bursts through the plate to create volcanoes. As the plates drift across the hot spots, a chain of volcanoes forms—such as the island chains of Hawaii and Samoa. 
+  
+ "Much of solid-Earth science for the past 20 years—and large amounts of money—have been spent looking for elusive narrow mantle plumes that wind their way upward through the mantle," Anderson says. 
+  
+ To look for the hypothetical plumes, researchers analyze global seismic activity. Everything from big quakes to tiny tremors sends seismic waves echoing through Earth's interior. The type of material that the waves pass through influences the properties of those waves, such as their speeds. By measuring those waves using hundreds of seismic stations installed on the surface, near places such as Hawaii, Iceland, and Yellowstone National Park, researchers can deduce whether there are narrow mantle plumes or whether volcanoes are simply created from magma that's absorbed in the sponge-like shallower mantle. 
+  
+ No one has been able to detect the predicted narrow plumes, although the evidence has not been conclusive. The jets could have simply been too thin to be seen, Anderson says. Very broad features beneath the surface have been interpreted as plumes or super-plumes, but, still, they're far too wide to be considered narrow jets. 
+  
+ But now, thanks in part to more seismic stations spaced closer together and improved theory, analysis of the planet's seismology is good enough to confirm that there are no narrow mantle plumes, Anderson and Natland say. Instead, data reveal that there are large, slow, upward-moving chunks of mantle a thousand kilometers wide. 
+  
+ In the mantle-plume theory, Anderson explains, the heat that is transferred upward via jets is balanced by the slower downward motion of cooled, broad, uniform chunks of mantle. The behavior is similar to that of a lava lamp, in which blobs of wax are heated from below and then rise before cooling and falling. But a fundamental problem with this picture is that lava lamps require electricity, he says, and that is an outside energy source that an isolated planet like Earth does not have. 
+  
+ The new measurements suggest that what is really happening is just the opposite: Instead of narrow jets, there are broad upwellings, which are balanced by narrow channels of sinking material called slabs. What is driving this motion is not heat from the core, but cooling at Earth's surface. In fact, Anderson says, the behavior is the regular mantle convection first proposed more than a century ago by Lord Kelvin. When material in the planet's crust cools, it sinks, displacing material deeper in the mantle and forcing it upward. 
+  
+ "What's new is incredibly simple: upwellings in the mantle are thousands of kilometers across," Anderson says. The formation of volcanoes then follows from plate tectonics—the theory of how Earth's plates move and behave. Magma, which is less dense than the surrounding mantle, rises until it reaches the bottom of the plates or fissures that run through them. Stresses in the plates, cracks, and other tectonic forces can squeeze the magma out, like how water is squeezed out of a sponge. That magma then erupts out of the surface as volcanoes. The magma comes from within the upper 200 kilometers of the mantle and not thousands of kilometers deep, as the mantle-plume theory suggests. 
+  
+ "This is a simple demonstration that volcanoes are the result of normal broad-scale convection and plate tectonics," Anderson says. He calls this theory "top-down tectonics," based on Kelvin's initial principles of mantle convection. In this picture, the engine behind Earth's interior processes is not heat from the core but cooling at the planet's surface. This cooling and plate tectonics drives mantle convection, the cooling of the core, and Earth's magnetic field. Volcanoes and cracks in the plate are simply side effects. 
+  
+ The results also have an important consequence for rock compositions—notably the ratios of certain isotopes, Natland says. According to the mantle-plume idea, the measured compositions derive from the mixing of material from reservoirs separated by thousands of kilometers in the upper and lower mantle. But if there are no mantle plumes, then all of that mixing must have happened within the upwellings and nearby mantle in Earth's top 1,000 kilometers. 
+  
+ The paper is titled "Mantle updrafts and mechanisms of oceanic volcanism." ||||| At school, we were all taught that volcanoes—just like the one rumbling away in Iceland—erupt when narrow jets of magma are forced outwards from the core of the Earth. It's a compelling enough story that it's appeared in textbooks for decades—but it's also, apparently, completely wrong. 
+  
+ So, the theory we all know and love goes that these long, thin columns of magma—referred to by those in the know as mantle plumes—act a bit like pipes. There's a well of liquid rock close to the core of the Earth and, though we don't quite know how when they formed, these narrow outlets that are 2,000 miles long and less than 200 miles across allow it to vent out to just below the Earth's crust, in the mantle. Where those columns sit in the mantle there are hot spots—and when the Earth's stiff crust fractures slightly, the magma can burst up and out as a volcano. 
+  
+ The problem is that such long, thin columns of magma aren't easily explained by basic physics. "Mantle plumes have never had a sound physical or logical basis," explains Don Anderson, Professor of Geophysics at Caltech. "They are akin to Rudyard Kipling's Just So Stories about how giraffes got their long necks." 
+  
+ Advertisement 
+  
+ That may sound harsh, but he has evidence to back his point: despite scientists holding that the current volcano theory is accurate, seismological searches for the plumes—the only way to look that deeply into the planet—have yielded no trace of them. 
+  
+ But Anderson has a new theory, which he's just published in the Proceedings of the National Academy of Sciences. Based on the latest seismological analysis of the planet's structure, Anderson and his team have discovered that the plumes are far bigger than anyone ever considered in the past; in fact, there are huge chunks of hot mantle rising at any one point, which are thousands of miles across. 
+  
+ Sponsored 
+  
+ Imagine a lava lamp inside the planet, with wax replaced by molten rock, and you're not far off. When the hot stuff gets to the top, some of it cools and then falls in long, narrow channels. So, in essence, the new theory is kind of the reverse of the old one. 
+  
+ In terms of volcanoes on the surface, the new theory means that their magma actually comes from much closer to the surface of our planet, at the top of Earth's mantle, rather than jetting up from closer to the center of the Earth. Interestingly, that means that volcanic eruptions aren't fueled by excess heat from the core, but rather how the magma close to the surface cools over time. 
+  
+ Of course, that doesn't make eruptions any less damaging when they happen—but it does mean that we can rewrite the textbooks. [PNAS via Caltech via PhysOrg] 
+  
+ Image by Pablo Hidalgo/Shutterstock |||||

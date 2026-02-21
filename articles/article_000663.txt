@@ -1,0 +1,11 @@
+The firm's final results for the year ended 31 March 2015 also show a rise in pre-tax profit by 11% to £10.8m.
+Without one-off costs, adjusted profit rose to £16.6m.
+Iomart listed its "highlights" as "strengthened relationships" "with major vendors such as Microsoft and EMC" and better "opportunities from the market for Hybrid Cloud solutions".
+A hybrid cloud is where some resources and provided and managed in-house where others are sourced externally.
+Iomart said it had benefited from the increasing complexity of a hybrid cloud.
+These include questions about cost, value, effectiveness, security and compliance, around the core business of providing data storage capacity in several centres.
+Chief executive Angus MacSween said customers were seeking to combine their own IT hardware with contracts for use of private space in a separate data centre, along with use of the publicly-available cloud.
+"The effective management of all these is the opportunity for Iomart which we would collectively term the hybrid cloud," he said.
+The company has been buying other firms over the past year, helping to drive up those revenue figures figures. Including acquisitions, the hosting of cloud data rose in value by 23% to £55m, though without them, growth was 9%.
+Revenue fell slightly in Easyspace, the division which supports clients' websites and email.
+On Monday, it was announced that Iomart had bought the London-based cloud computing consultancy, SystemsUp, for at least £9m.

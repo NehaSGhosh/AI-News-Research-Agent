@@ -1,0 +1,197 @@
+WASHINGTON—Senate Intelligence Committee Chairman Richard Burr (R., N.C.) has decided against a proposal circulating quietly on Capitol Hill to create criminal penalties for companies that decline to comply with court orders to decipher encrypted communications, a spokeswoman said Thursday night. 
+  
+ The issue of how to pressure companies on encryption matters has become inflamed in Washington in recent days. Several people familiar with the matter previously said Mr. Burr was considering criminal provisions as part of the proposal.... ||||| Neither Hillary Clinton nor Bernie Sanders was willing to pick a side Thursday in the heated battle between the FBI and Apple over the government’s demand that the company create new, less secure software to comply with a warrant. 
+  
+ The tech giant made headlines on Wednesday with its forceful response to a federal judge’s court order that it help the government break into an iPhone belonging to one of the San Bernardino killers, Syed Farook. 
+  
+ When Democratic town hall host José Díaz-Balart asked Sanders, “Whose side are you on?” Sanders replied: “Both.” 
+  
+ “I am very fearful in America about Big Brother. And that means not only the federal government getting into your emails or knowing what books you’re taking out of the library, or private corporations knowing everything there is to know about you in terms of your health records, your banking records, your consumer practices,” Sanders said. 
+  
+ “On the other hand, what I also worry about is the possibility of another terrorist attack against our country. And frankly, I think there is a middle ground that can be reached.” 
+  
+ Clinton called the situation a “difficult dilemma.” She discussed some of the main concerns Apple has “about opening the door, creating what they call a backdoor into encryption.” And she pointed out that the capability could be abused by authoritarian regimes like “the Chinese, Russian, Iranian governments” who want the same kind of access. 
+  
+ But she concluded with a favorite law enforcement talking point: that the smart people in America can surely solve this problem and find a way to help the FBI access encrypted communications with a little brainstorming and teamwork. “As smart as we are, there’s got to be some way on a very specific basis we could try to help get information around crimes and terrorism,” she said. Technologists refer to this as the “magic pony” solution. 
+  
+ Try as the two candidates might, however, there really isn’t a middle ground to occupy — either in the war between Apple and the FBI, or when it comes to the use of unbreakable encryption generally. 
+  
+ Technologists almost unanimously agree that there’s no secure way to insert a backdoor into their products without undermining security and exposing data to criminals and hackers. 
+  
+ And Apple CEO Tim Cook, supported by a growing legion of cryptologists, scientists, and other tech companies, said Wednesday that acceding to the government “would undermine the very freedoms and liberty our government is meant to protect.” 
+  
+ If Apple is forced to build a new way to hack its own product, the genie would be out of the bottle — the U.S. government could ask for it to do so again, and other governments could demand the same. Apple users would no longer have confidence that their data is secure, and presumably, other companies would soon find themselves in the same position. ||||| NEW YORK/SAN FRANCISCO (Reuters) - Apple Inc (AAPL.O) will likely seek to invoke the United States’ protections of free speech as one of its key legal arguments in trying to block an order to help unlock the encrypted iPhone of one of the San Bernardino shooters, lawyers with expertise in the subject said this week. 
+  
+ The company on Thursday was granted three additional days by the court to file a response to the order. Apple will now have until Feb. 26 to send a reply, a person familiar with matter told Reuters. 
+  
+ The tech giant and the Obama administration are on track for a major collision over computer security and encryption after a federal magistrate judge in Los Angeles handed down an order on Tuesday requiring Apple to provide specific software and technical assistance to investigators. 
+  
+ Apple Chief Executive Tim Cook called the request from the Federal Bureau of Investigation unprecedented. Other tech giants such as Facebook Inc (FB.O), Twitter Inc (TWTR.N) and Alphabet Inc’s (GOOGL.O) Google have rallied to support Apple. 
+  
+ Apple has retained two prominent, free-speech lawyers to do battle with the government, according to court papers: Theodore Olson, who won the political-speech case Citizens United v. Federal Election Commission in 2010, and Theodore Boutrous, who frequently represents media organizations. 
+  
+ Government lawyers from the U.S. Justice Department have defended their request in court papers by citing various authorities, such as a 1977 U.S. Supreme Court ruling that upheld an order compelling a telephone company to provide assistance with setting up a device to record telephone numbers. 
+  
+ The high court said then that the All Writs Act, a law from 1789, authorized the order, and the scope of that ruling is expected to be a main target of Apple when it files a response in court by early next week. 
+  
+ But Apple will likely also broaden its challenge to include the First Amendment’s guarantee of speech rights, according to lawyers who are not involved in the dispute but who are following it. 
+  
+ Compared with other countries, the United States has a strong guarantee of speech rights even for corporations, and at least one court has ruled that computer code is a form of speech, although that ruling was later voided. 
+  
+ Apple could argue that being required to create and provide specific computer code amounts to unlawful compelled speech, said Riana Pfefferkorn, a cryptography fellow at Stanford University’s Center for Internet and Society. 
+  
+ A worker tries to repair an iPhone in a repair store in New York, February 17, 2016. REUTERS/Eduardo Munoz 
+  
+ The order against Apple is novel because it compels the company to create a new forensic tool to use, not just turn over information in Apple’s possession, Pfefferkorn said. “I think there is a significant First Amendment concern,” she said. 
+  
+ A spokesman for the U.S. Attorney’s Office in Los Angeles declined to comment on the possible free-speech questions on Thursday. 
+  
+ A speech-rights argument from Apple, though, could be met with skepticism by the courts because computer code has become ubiquitous and underpins much of the U.S. economy. 
+  
+ Slideshow (2 Images) 
+  
+ “That is an argument of enormous breadth,” said Stuart Benjamin, a Duke University law professor who writes about the First Amendment. He said Apple would need to show that the computer code conveyed a “substantive message.” 
+  
+ In a case brought by a mathematician against U.S. export controls, a three-judge panel of the 9th U.S. Circuit Court of Appeals, which covers California, found in 1999 that the source code behind encryption software is protected speech. The opinion was later withdrawn so the full court could rehear the case, but that rehearing was canceled and the appeal declared moot after the government revised its export controls. 
+  
+ The FBI and prosecutors are seeking Apple’s assistance to read the data on an iPhone 5C that had been used by Rizwan Farook, who along with his wife, Tashfeen Malik, carried out the San Bernardino shootings that killed 14 people and wounded 22 others at a holiday party. 
+  
+ U.S. prosecutors were smart to pick the mass shooting as a test case for an encryption fight with tech companies, said Michael Froomkin, a University of Miami law professor. That is because the shooting had a large emotional impact while also demonstrating the danger posed by armed militants, he said. 
+  
+ In addition, the iPhone in dispute was owned not by Farook but by his employer, a local government, which has consented to the search of the iPhone. The federal magistrate who issued the order, Sheri Pym, is also a former federal prosecutor. 
+  
+ “This is one of the worst set of facts possible for Apple. That’s why the government picked this case,” Froomkin said. 
+  
+ Froomkin added, though, that the fight was enormously important for the company because of the possibility that a new forensic tool could be easily used on other phones and the damage that could be done to Apple’s global brand if it cannot withstand government demands on privacy. “All these demands make their phones less attractive to users,” he said. ||||| The news this week that a magistrate ordered Apple to help the FBI hack an iPhone used by one of the San Bernardino shooter suspects has polarized the nation—and also generated some misinformation. 
+  
+ Those who support the government say Apple has cooperated in the past to unlock dozens of phones in other cases—so why can't it help the FBI unlock this one? 
+  
+ But this isn't about unlocking a phone; rather, it's about ordering Apple to create a new software tool to eliminate specific security protections the company built into its phone software to protect customer data. Opponents of the court’s decision say this is no different than the controversial backdoor the FBI has been trying to force Apple and other companies to build into their software—except in this case, it's an after-market backdoor to be used selectively on phones the government is investigating. 
+  
+ The stakes in the case are high because it draws a target on Apple and other companies embroiled in the ongoing encryption/backdoor debate that has been swirling in Silicon Valley and on Capitol Hill for the last two years. Briefly, the government wants a way to access data on gadgets, even when those devices use secure encryption to keep it private. 
+  
+ Apple specifically altered its software in 2014 to ensure that it would not be able to unlock customer phones and decrypt any of the most important data on them; but it turns out it overlooked a loophole in doing this that the government is now trying to exploit. The loophole is not about Apple unlocking the phone but about making it easier for the FBI to attempt to unlock it on its own. If the controversy over the San Bernardino phone causes Apple to take further steps to close that loophole so that it can't assist the FBI in this way in the future, it could be seen as excessive obstinance and obstruction by Capitol Hill. And that could be the thing that causes lawmakers to finally step in with federal legislation that prevents Apple and other companies from locking the government out of devices. 
+  
+ If the FBI is successful in forcing Apple to comply with its request, it would also set a precedent for other countries to follow and ask Apple to provide their authorities with the same software tool. 
+  
+ In the interest of clarifying the facts and correcting some misinformation, we've pulled together a summary of the issues at hand. 
+  
+ What Kind of Phone Are We Talking About? 
+  
+ The phone in question is an iPhone 5c running the iOS9 version of Apple's software. The phone is owned by the San Bernardino Department of Public Health, which gave it to Syed Rizwan Farook, the shooter suspect, to use for work. 
+  
+ What Is the Issue? 
+  
+ Farook created a password to lock his phone, and due to security features built into the software on his device, the FBI can't unlock the phone and access the data on it using the method it wants to use—a bruteforce password-guessing technique wherein they enter different passcodes repeatedly until they guess the right one—without running the risk that the device will lock them out permanently. 
+  
+ How Would It Do That? 
+  
+ Apple's operating system uses two factors to secure and decrypt data on the phone–the password the user chooses and a unique 256-bit AES secret key that's embedded in the phone when it's manufactured. As cryptographer Matthew Green explains in a blog post, the user's password gets "tangled" with the secret key to create a passcode key that both secures and unlocks data on the device. When the user enters the correct password, the phone performs a calculation that combines these two codes and if the result is the correct passcode, the device and data are unlocked. 
+  
+ To prevent someone from brute-forcing the password, the device has a user-enabled function that limits the number of guesses someone can try before the passcode key gets erased. Although the data remains on the device, it cannot be decrypted and therefore becomes permanently inaccessible. The government's motion to the court (.pdf) notes that this happens after 10 failed guesses when the auto-erase feature is enabled by the user. 
+  
+ The government says it does not know for certain if Farook's device has the auto-erase feature enabled, but notes in its motion that San Bernardino County gave the device to Farook with it enabled, and the most recent backup of data from his phone to iCloud "showed the function turned on." 
+  
+ A reasonable person might ask why, if the phone was backing data up to iCloud, the government can't just get everything it needs from iCloud instead of breaking into the phone. The government did obtain some data backed up to iCloud from the phone, but authorities allege in their court document that he may have disabled iCloud backups at some point. They obtained data backed up to iCloud a month before the shootings, but none closer to the date of the shooting, when they say he is most likely to have used the phone to coordinate the attack. 
+  
+ Is This Auto-Erase the Only Security Protection Apple Has in Place? 
+  
+ No. In addition to the auto-erase function, there's another protection against brute force attacks: time delays. Each time a password is entered on the phone, it takes about 80 milliseconds for the system to process that password and determine if it's correct. This helps prevent someone from quickly entering a new password to try again, because they can only guess a password every 80 milliseconds. This might not seem like a lot of time, but according to Dan Guido, CEO of Trail of Bits, a company that does extensive consulting on iOS security, it can be prohibitively long depending on the length of the password. 
+  
+ "In terms of cracking passwords, you usually want to crack or attempt to crack hundreds or thousands of them per second. And with 80 milliseconds, you really can only crack eight or nine per second. That's incredibly slow," he said in a call to reporters this week. 
+  
+ With a four-digit passcode, he says, there are only about 10,000 different combinations a password-cracker has to try. But with a six-digit passcode, there are about one million different combinations a password cracker would have to try to guess the correct one—a simple six-digit passcode composed of just numbers would take a couple of days to crack, Guido says; but a more complex six-character password composed of letters and numbers could take more than five-and-a-half-years, according to Apple. The iOS9 software, which appears to be the software on the San Bernardino phone, asks you to create a six-digit password by default, though you can change this requirement to four digits if you want a shorter one. 
+  
+ Later models of phones use a different chip than the iPhone 5c and have what's called a "secure enclave" that adds even more time delays to the password-guessing process. Guido describes the secure enclave as a "separate computer inside the iPhone that brokers access to encryption keys" increasing the security of those keys. 
+  
+ With the secure enclave, after each wrong password guess, the amount of time you have to wait before trying another password grows with each try; by the ninth failed password you have to wait an hour before you can enter a tenth password. The government mentioned this in its motion to the court, as if the San Bernardino phone has this added delay. But the iPhone 5c does not have secure enclave on it, so the delay would really only be the usual 80 milliseconds in this case. 
+  
+ Why None of This Is an Issue With Older iPhones 
+  
+ With older versions of Apple's phone operating system—that is, phones using software prior to iOS8—Apple has the ability to bypass the user's passcode to essentially unlock the device and access data on the phone. It has done so in dozens of cases over the years, pursuant to a court order. But beginning with iOS8, Apple changed this so that it securely encrypts all of the most important data on your phone by default—photos, messages, contacts, call history—using the password you choose. And Apple cannot bypass your password to obtain that data. 
+  
+ According to the motion filed by the government in the San Bernardino case, the phone in question is using a later version of Apple's operating system—which appears to be iOS9. We're basing this on a statement in the motion that reads: "While Apple has publicized that it has written the software differently with respect to iPhones such as the SUBJECT DEVICE with operating system ("iOS")9, Apple yet retains the capacity to provide the assistance sought herein that may enable the government to access the SUBJECT DEVICE pursuant to the search warrant." 
+  
+ The government is referring to the changes that Apple made with iOS8 that exist in iOS9 as well. Apple released iOS9 in September 2015, three months before the San Bernardino attacks occurred, so it's very possible this is indeed the version installed on the San Bernardino phone. 
+  
+ After today, technology vendors need to consider that they might be the adversary they're trying to protect their customers from. 
+  
+ What Does the Government Want? 
+  
+ A lot of people have misconstrued the government's request and believe it asked the court to order Apple to unlock the phone, as Apple has done in many cases before. But as noted, the particular operating system installed on this phone does not allow Apple to bypass the passcode and decrypt the data. So the government wants to try bruteforcing the password without having the system auto-erase the decryption key and without additional time delays. To do this, it wants Apple to create a special version of its operating system, a crippled version of the firmware that essentially eliminates the bruteforcing protections, and install it on the San Bernardino phone. It also wants Apple to make it possible to enter password guesses electronically rather than through the touchscreen so that the FBI can run a password-cracking script that races through the password guesses automatically. It wants Apple to design this crippled software to be loaded into memory instead of on disk so that the data on the phone remains forensically sound and won't be altered. 
+  
+ Note that even after Apple does all of this, the phone will still be locked, unless the government's bruteforcing operation works to guess the password. And if Farook kept the iOS9 default requirement for a six-digit password, and chose a complex alpha-numeric combination for his password, the FBI might never be able to crack it even with everything it has asked Apple to do. 
+  
+ Apple CEO Tim Cook described the government's request as "asking Apple to hack our own users and undermine decades of security advancements that protect our customers—including tens of millions of American citizens—from sophisticated hackers and cybercriminals. The same engineers who built strong encryption into the iPhone to protect our users would, ironically, be ordered to weaken those protections and make our users less safe." 
+  
+ What Exactly Is the Loophole You Said the Government Is Exploiting? 
+  
+ The loophole is the fact that Apple still retains the ability to run crippled firmware on a device like this without requiring the user to approve it, the way software updates usually work. If this required user approval, Apple would not be able to do what the government is requesting. 
+  
+ How Doable Is All of This? 
+  
+ Guido says the government's request is completely doable and reasonable. 
+  
+ "They have to make a couple of modifications. They have to make it so that the operating system boots inside of a RAM disk…[and] they need to delete a bunch of code—there's a lot of code that protects the passcode that they just need to trash," he said. 
+  
+ Making it possible for the government to test passwords with a script instead of typing them in would take a little more effort he says. "[T]hat would require a little bit of extra development time, but again totally possible. Apple can load a new kernel driver that allows you to plug something in over the [Lightning] port… It wouldn't be trivial but it wouldn't be massive." 
+  
+ Could This Same Technique Be Used to Undermine Newer, More Secure Phones? 
+  
+ There has been some debate online about whether Apple would be able to do this for later phones that have newer chips and the secure enclave. It's an important question because these are the phones that most users will have in the next one or two years as they replace their old phones. Though the secure enclave has additional security features, Guido says that Apple could indeed also write crippled firmware for the secure enclave that achieves exactly what the FBI is asking for in the San Bernardino case. 
+  
+ "It is absolutely within the realm of possibility for Apple themselves to tamper with a lot of the functionality of the secure enclave. They can't read the secure private keys out of it, but they can eliminate things like the passcode delay," he said. "That means the solution that they might implement for the 5c would not port over directly to the 5s, the 6 or the 6s, but they could create a separate solution for [these] that includes basically crippled firmware for the secure enclave." 
+  
+ If Apple eliminates the added time delays that the secure enclave introduces, then such phones would only have the standard 80-millisecond delay that older phones have. 
+  
+ "It requires more work to do so with the secure enclave. You have to develop more software; you have to test it a lot better," he said. "There may be some other considerations that Apple has to work around. [But] as far as I can tell, if you issue a software update to the secure enclave, you can eliminate the passcode delay and you can eliminate the other device-erase [security feature]. And once both of those are gone, you can query for passcodes as fast as 80 milliseconds per request." 
+  
+ What Hope Is There for Your Privacy? 
+  
+ You can create a strong alpha-numeric password for your device that would make bruteforcing it essentially infeasible for the FBI or anyone else. "If you have letters and numbers and it's six, seven or eight digits long, then the potential combinations there are really too large for anyone to bruteforce," Guido said. 
+  
+ And What Can Apple Do Going Forward? 
+  
+ Guido says Apple could and should make changes to its system so that what the FBI is asking it to do can't be done in future models. "There are changes that Apple can make to the secure enclave to further secure their phones," he said. "For instance, they may be able to require some kind of user confirmation, before that firmware gets updated, by entering their PIN code … or they could burn the secure enclave into the chip as read-only memory and lose the ability to update it [entirely]." 
+  
+ These would prevent Apple in the future from having the ability to either upload crippled firmware to the device without the phone owner's approval or from uploading new firmware to the secure enclave at all. 
+  
+ "There's a couple of different options that they have; I think all of them, though, are going to require either a new major version of iOS or new chips on the actual phones," Guido said. "But for the moment, what you have to fall back on is that it takes 80 milliseconds to try every single password guess. And if you have a complex enough password then you're safe." 
+  
+ Is the Ability to Upload Crippled Firmware a Vulnerability Apple Should Have Foreseen? 
+  
+ Guido says no. 
+  
+ "It wasn't until very recently that companies had to consider: What does it look like if we attack our own customers? What does it look like if we strip out and remove the security mitigations we put in specifically to protect customers?" 
+  
+ He adds: "Apple did all the right things to make sure the iPhone is safe from remote intruders, or people trying to break into the iPhone.… But certainly after today, technology vendors need to consider that they might be the adversary they're trying to protect their customers from. And that's quite a big shift." 
+  
+ Update 2:30 pm EST: To clarify the number of failed password guesses that can occur before the phone deletes the passcode key, making data on the phone inaccessible. 
+  
+ Update 5:30 pm EST: To clarify the security changes Apple made in 2014 that prevent it from unlocking secured data on phones. ||||| An Apple iPhone sits on a table during a news conference at New York City Police Headquarters, Thursday, Feb. 18, 2016 in New York. Police and prosecutors in New York City said Thursday that the top-notch... (Associated Press) 
+  
+ An Apple iPhone sits on a table during a news conference at New York City Police Headquarters, Thursday, Feb. 18, 2016 in New York. Police and prosecutors in New York City said Thursday that the top-notch encryption technology on Apple mobile phones is now routinely hindering criminal investigations.... (Associated Press) 
+  
+ NEW YORK (AP) — Police and prosecutors in New York City said Thursday that the top-notch encryption technology on Apple mobile phones is now routinely hindering criminal investigations. And they predicted the problem could grow worse as more criminals figure out how well the devices keep secrets. 
+  
+ Manhattan District Attorney Cyrus R. Vance Jr. said at a news conference that investigators cannot access 175 Apple devices sitting in his cybercrime lab because of encryption embedded in the company's latest operating systems. 
+  
+ "They're warrant proof," he said, adding that the inability to peer inside the devices was especially problematic because so much evidence once stored in file cabinets, on paper, and in vaults, is now only on criminals' smartphones. 
+  
+ Apple has marketed its encryption data as an important privacy tool, and many privacy advocates have praised the company, saying that if it opened its devices to government surveillance that ability to spy on users could be abused in places with authoritarian regimes. 
+  
+ "There is no magic key that only good guys can use and bad guys cannot," said Cindy Cohn, executive director of the Electronic Frontier Foundation, a digital civil liberties organization. 
+  
+ "Any vulnerability Apple is forced to create in its phones can and will be exploited by criminals making all less secure," Cohn said. "This is really a question of security versus surveillance." 
+  
+ Apple, based in Cupertino, California, is currently fighting a federal magistrate's order to help the FBI hack into an iPhone used by a gunman in December's mass shooting in San Bernardino, California. An Apple spokesman did not immediately return a call Thursday for comment on the concerns of New York City authorities. 
+  
+ Vance didn't specify which cases were being hindered. But Police Commissioner William Bratton said a phone seized in the investigation of the shooting of two police officers in the Bronx last month is among those detectives can't crack. It was displayed Thursday alongside other phones, iPads and tablets similar to 600 devices the prosecutor's team tested, of which the 175 proved inaccessible. 
+  
+ Bratton said criminals are increasingly aware of the protection offered by their devices. He said a prisoner in a city jail was recently recorded saying in a phone call that iPhone encryption was "another gift from God." 
+  
+ Vance said investigators have relied on phone data to investigate killings, child pornography, robbery and identity theft. He said that might include checking a suspect's contact list to get the names of witnesses or conspirators, or viewing incriminating videos and photographs. 
+  
+ Apple CEO Tim Cook has warned that creating software allowing the FBI to unlock the San Bernardino suspect's phone could make millions of other phones vulnerable to hackers and criminals. 
+  
+ Cook said that if Apple were forced by the courts to "hack our own users," the government could order the company to build surveillance software to intercept all sorts of messages, "access your health records or financial data, track your location, or even access your phone's microphone or camera without your knowledge." |||||

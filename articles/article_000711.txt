@@ -1,0 +1,11 @@
+Cryptoy was created by three industrial placement students and tells the story of four historical cyphers, including the German Enigma code, cracked at Bletchley Park during World War Two.
+The free app for Android tablet devices also encrypts messages using the codes.
+GCHQ says it is hoping it will help to encourage teenagers to be the next generation of cyber security experts.
+Cryptoy also showcases the substitution and vigenere cyphers, and the shift, which dates back to Roman times.
+A spokeswoman for Cheltenham-based GCHQ said the app is intended as a "fun teaching aid" to help 14-16 year olds studying at the Key Stage 4 level learn something about code making and code breaking.
+She said it aims to encourage them to become interested in associated disciplines such as mathematics, as well as problem solving and the necessary programming skills to create such an app.
+"All of this is extremely relevant to today's world where information security is increasingly important and where we need young people to study the subjects necessary," she added.
+The app was initially produced by the industrial placement students for the Cheltenham Festival cultural event last year.
+The GCHQ spokeswoman said the agency was keen where possible to be open about some aspects of its work.
+The BBC's technology correspondent Rory Cellan-Jones said the public should have no qualms about downloading the app.
+Cryptoy will be available to download directly from Google Play or through the GCHQ website. It is understood that a version for Apple iPads will not be available until next year.

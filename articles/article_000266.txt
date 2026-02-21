@@ -1,0 +1,76 @@
+The tech firms are investing in rival efforts to beam the internet down to the ground from flying objects in the stratosphere - twice as high as aeroplanes normally fly.
+Facebook aims to build a network of laser-beaming drones that will tightly circle known black-spots.
+Google also has a drone project about which it's tight-lipped.
+But the company is more open about an attempt to send "strings" of giant balloons circumnavigating the globe to provide persistent data links to the parts of the planet they pass.
+The schemes may both seem far-fetched.
+But the brains behind both companies' efforts told the BBC they are convinced they have a real shot at connecting the 57% of the world's population still offline.
+Of the two projects, Facebook's plan is arguably at an earlier stage.
+"It has not flown yet, that's the next milestone," the social network's engineering chief Jay Parikh acknowledges.
+But he says he hopes the first drone will be airborne before the year's end.
+"Don't tell Mark I said that," he hurriedly adds, referring to Facebook's chief executive.
+"I'm trying to manage Mark's expectations."
+The aircraft is called Aquila 1 and was recently built in Somerset, England before being shipped to a secret test site.
+The drone is wider than a Boeing 737 jet but looks quite different, since there's no need to carry passengers or a pilot.
+The sleek giant structure is made of a thin layer of foam covered in carbon fibre, with four propellers attached.
+"The whole structure is 142ft (43m) wide but weighs less than a Toyota Prius," Mr Parikh explains.
+"The structure and stiffness of the plane is all in the carbon fibre of the wing and that supports everything, the [internet-providing] payload, the batteries, and the solar panels on top."
+The aim is to build a fleet of the drones with radio transmitters fitted underneath to beam  data across a 100 mile (160km) diameter zone below.
+Terminals on the ground would use the signals to provide the internet to people's computers.
+Facebook wants the drones to stay aloft for three months at a time.
+That alone would be an impressive feat - the current record is about a fortnight.
+But the really tricky bit involves creating a sky-high network with several drones acting as intermediary connection points, so that a fast connection sent from a city can be distributed outwards to the final aircraft in the chain as far as 300km (186 miles) away.
+To help keep data speeds high, Facebook aims to beam lasers between the aircraft across significant distances.
+"The analogy that we have come up with is this: If I took a US dime [18mm in diameter] and I walked 11 miles away from you, and then you had a laser in your hand, you would have to hit that dime," says Mr Parikh.
+"And by the way, these are not stationary targets - these are moving.
+"So, we have to do this and keep this pointed and connected while the one point and the other point are moving.
+"It's pretty freaking hard."
+The firm has already trialled the tech in its California labs, but making it work 27km above ground will not be easy.
+Project Loon's balloons have been taking to the skies since June 2013.
+"We've flown almost 1,000 balloons at this point," Mike Cassidy, vice-president of Project Loon, tells the BBC.
+"We've flown almost 20 million kilometres around the world.
+"One of our balloons went around the world 19 times."
+The balloons travel with the winds, usually along an easterly or westerly latitude.
+Google keeps each one on course by pumping helium in and out of a bag fastened inside the balloon's outer plastic envelope. This causes it to rise or fall, letting it find winds that will take it in the desired direction.
+Rather than try to keep each balloon over one spot, Google's goal is to create a circular sequence. So, as one goes out of range of antennas on the ground, another takes its place, providing a continuous internet connection.
+Initially, the firm struggled to keep its balloons aloft for much more than a week. But it now regularly keeps them aloft for 150 days.
+"Even a millimetre-sized hole in a balloon will bring it down in a few days," explains Mr Cassidy.
+"So, you need to study every phase of the process from manufacturing to packaging to shipping to launch.
+"We just slowly found the holes by failure analysis."
+Rather than use lasers, Google relies solely on radio frequencies to transmit its data.
+Equipment hanging below each aircraft connects to a base station in range below and then sends out the resulting data link to other antennas it can reach, which in turn link up to people's individual computing devices.
+At present, Loon balloons can cover a circular area spanning 80km (50 miles) in diameter.
+The balloons can also transmit signals to each other to extend the internet when there is no base station nearby.
+The firm says it has already linked up two balloons more than 100km apart and transferred data at about 500 megabits per second.
+But that's a fraction of the tens or even hundreds of gigabits per second rates Facebook believes its lasers are capable of.
+"Radio technology is generally a more developed technology than freespace optical communication," Google's Mr Cassidy said, explaining his approach.
+"It's been around longer, the components are typically less expensive.
+"But we'll definitely look at all technologies that provide good performance."
+As both schemes advance and more equipment takes to the skies, the risk of an accident increases.
+Even if Aquila weighs less than a car you still wouldn't want one hurtling towards you or a passenger jet at speed.
+Mr Parikh, however, is quick to stress there is no imminent risk.
+"This thing is not yet certified to fly over people's heads," he says.
+"We will have to do thousands or tens of thousands of fight hours, induce failures, see how these things manage the stress, the [cold] temperature, all of that."
+But Google's balloons are already active.
+Indeed, the firm hopes to start providing connections to early adopters in Indonesia and Sri Lanka soon.
+"We put transponders on all our balloons, which is not required," says Mr Cassidy, "so, just like an aeroplane, air traffic control can always see where the balloons are."
+But he acknowledges, things do not always go according to plan.
+"We have had some balloons come down at a time earlier than we expected," he discloses.
+"But in all those cases we did steer them to an area that was safer to land [and] contact air traffic control to co-ordinate the descent."
+Assuming life-threatening collisions can be avoided, one expert agreed both projects had  potential, not least because they should prove much cheaper than sending up more satellites or other existing alternatives.
+"They are talking about co-operating with existing communications service providers, which convinces me they won't be Wild West kinds of projects," says William Hahn from the tech consultancy Gartner.
+"We are seeing more options in a number of different areas as well: we have lower Earth-orbit satellites than we used to have and the cost of optical fibre is coming down.
+"But there are still some very large populations that are hard to reach and hard to serve, and at least in the mid-term I think these new schemes could be part of the solution."
+That just leaves the problem - how do you work out where best to deploy all this gear?
+No-one is suggesting the drones or balloons could provide blanket access.
+But at present, even the best internet coverage maps break down when you zoom in close enough.
+Facebook believes its artificial intelligence division could have the solution.
+"The team has just developed deep expertise at image recognition," reveals Facebook's Mr Parikh.
+"We've adapted that technology to be able to take in high-resolution satellite imagery and then be able to process it understanding what human dwellings look like.
+"So, here's a building, here's a home, here's a teepee, here's a train, here's a car - whatever it is, we are now able to come up with a way of better understanding where these people are."
+The social network has not made its data public yet.
+And like much else involved with the two connectivity projects, a lot has to be taken on trust at this point.
+But both Google and Facebook have a big financial incentive to get more people online and a willingness to keep spending until they achieve it.
+"Our philosophy is to do lots and lots of testing," concludes Google's Mr Cassidy.
+"If your choice is to sit around for a year or two planning and design and then do one big test, then the test may or may not work.
+"We like rapidly iterating, and I think from an engineering perspective that's the fastest way to get to a working system."
+Mr Parikh will provide more details about Facebook's drone at a meeting later this Wednesday, and will feature on Friday's edition of Tech Tent on BBC World Service

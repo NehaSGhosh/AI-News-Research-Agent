@@ -1,0 +1,113 @@
+In Silicon Valley-speak, “on demand” means requesting a service—laundry, a ride, a massage—right now. All you have to do is push that button. But of course you still have to wait for the ride to come; no one has figured out (yet) how to make it materialize out of thin air. 
+  
+ Now Uber wants to approximate that feeling by letting you schedule your ride ahead of time. When you need it, goes the idea, your ride just appears. 
+  
+ Starting today, business travelers in Seattle will be able to schedule rides 30 minutes to 30 days in advance. It’s the first step in what the company says will be a global rollout of the feature. 
+  
+ “Even though we’re an on-demand company, we totally get it,” says Tom Fallows, Uber’s director of global experiences. “Sometimes you just want that extra reassurance that your Uber will be there when you want to leave.” 
+  
+ After tapping on UberX in the Uber app, users will see a new option to schedule a ride to within a 15-minute window. You’ll set their pickup date, time, location, and destination, and you’ll be able to edit details up to 30 minutes before the pickup time. You can also cancel anytime without a penalty so long as your ride isn’t already on the way. Uber says it will send you reminders 24 hours ahead of your ride, and again 30 minutes before. 
+  
+ Passengers will also get a notification after the ride is on the way that includes, among other information, whether or not surge pricing is in effect. Since surge pricing is a strictly real-time computation, Fallows says, users see only the base fare when they initially order a scheduled ride. But if you’re not willing to pay the surge pricing, you have a five-minute window to cancel without a penalty after the driver is on the way. Wait longer than five minutes and the standard cancellation fee applies. (The amount varies by city: It’s $5 in San Francisco and Seattle, for instance, and 5 euros in Paris.) 
+  
+ What the Driver Sees 
+  
+ Meanwhile, the process on the driver’s end remains exactly the same. “The most efficient way to do this by far is for us to send your ride request to the nearest driver at the right moment,” Fallows says. “So from their perspective, it’s a normal ride.” 
+  
+ Uber does the technical heavy lifting to decide when to send the ride request out, says Fallows, which includes examining such signals as where all Uber drivers on the network are at that moment; where those drivers are headed and likely to be in the next few minutes; and how long it would take those drivers to arrive at your pickup location. Traffic is another factor, Fallows says, as is the likelihood of a driver accepting your request. 
+  
+ Scheduled rides go live today in Seattle, with other “top business travel cities” following soon, according to Uber. At launch, the feature is available only to users who have a business profile set up on the service, and only on the UberX tier. The announcement comes shortly after Uber’s archrival, Lyft, said it was testing a similar feature among its own employees in San Francisco. Lyft said it would like to offer scheduled rides to regular customers but has no definite plan for releasing the feature. ||||| Passengers will be able to schedule a ride up to 30 days in advance, a reversal of Uber's long-held attitude that it is an on-demand service. 
+  
+ Mass shooting in Orlando: Why Pulse is more than just a gay bar 
+  
+ An Uber car in San Francisco in May 2015. Passengers will soon be able to pre-schedule rides. 
+  
+ Passport, check. Toothbrush, check. Scheduled Uber pickup, check. 
+  
+ The ride-hailing company announced that users on their way to the airport, or in need of any pre-scheduled ride, will be able to reserve one up to 30 days in advance. The service started Thursday in Seattle, the home of Microsoft, and will expand to other “top business travel cities,” Uber wrote on its blog. 
+  
+ Uber is not the first ride-hailing service to offer this feature. Lyft announced in May it has started to test a similar program in San Francisco, while Gett has offered scheduled-ahead service for more than a year where it operates, USA Today reported. 
+  
+ As these companies upend the taxi and limousine industries, Uber’s announcement shows that it, Lyft, and Gett have found that they shouldn’t discard too many taxi and limo features in the name of “on-demand.” 
+  
+ “Even though we’re an on-demand company, we totally get it,” Tom Fallows, Uber’s director of global experiences, told Wired.com. “Sometimes you just want that extra reassurance that your Uber will be there when you want to leave.” 
+  
+ Through Uber’s new feature, a user will be able to schedule a ride 30 minutes to 30 days in advance. The feature will be offered to start just through Uber X, its less expensive, private vehicle option. A user can cancel any time before their ride is on its way, at no cost to them. Pre-scheduling won’t impact drivers, who will not be able to match with riders ahead of time, according to The Boston Globe. And users won’t be able to avoid surge pricing, in which the cost of a ride climbs at peak hours, either. 
+  
+ Schedule-ahead service is a reversal of Uber’s long-held stance about how, and when, it serves its customers. 
+  
+ “Uber is an on-demand service,” it writes on its website, on a page titled “Can I make a reservation?” “Use the Uber app to request a trip when you’re ready to ride. There’s no need to make a reservation in advance.” 
+  
+ Travis Kalanick, Uber’s chief executive, reaffirmed this mindset in September, when he spoke one-on-one with Salesforce CEO Mark Benioff at the cloud computing company’s Dreamforce conference. 
+  
+ “Do you schedule time with your shower?” said Mr. Kalanick, when asked by Mr. Benioff if Uber would introduce scheduled rides, reported Forbes. 
+  
+ And yet, ever since it started six years ago, Uber said it has received requests from customers for pre-scheduled rides “so they can rest assured that an Uber will be available when they need it, even if it’s for a 4 a.m. ride to the airport,” wrote Uber in Thursday’s blog post. 
+  
+ Taxis and limos have long offered schedule-ahead services. In fact, it’s a foundation of the limousine industry. Gett, which operates in Europe, Russia, Israel, and New York City, recognized this when it launched the service more than a year ago. Lyft was next. It started to pilot service in San Francisco about two weeks ago, and plans to expand it to other cities sometime this summer, reported PC Magazine. Lyft, though, will allow users to reserve a ride up to 24 hours in advance, compared to up to 30 days through Uber. 
+  
+ Uber introduced pre-scheduling in part to keep up with its rivals. Yet it’s also an indication that ride-hailing companies are learning they can’t do away with too much of the traditional model. 
+  
+ “If you want to really, truly upend the market, then you have to focus on perfecting the tools people use to create change,” wrote Kevin Harrington, the inventor of the infomercial, in a Forbes article. “In the end, companies don’t upend markets – customers do.” ||||| Uber’s working on making it easier for you to get a ride when you need it. 
+  
+ “Ride-scheduling,” unveiled June 9 on a trial basis in Seattle, is the latest feature to be added, according to the company’s blog. 
+  
+ Advertisement 
+  
+ While the new feature allows riders to schedule a pickup request up to 30 days in advance, it doesn’t allow riders to match with drivers ahead of time. 
+  
+ Since launching its ride-sharing application six years ago, the company said on its blog that riders have wanted the ability to arrange a pickup in advance. 
+  
+ The company said it did not have a specific date when Boston would receive the new feature, but “other top business travel cities” will soon be added. Uber is also limiting the new feature to users it identifies as “business travelers.’’ 
+  
+ To use the function, users will have to select “uberX” in the app, followed by a “Schedule a Ride” option. 
+  
+ After filling out the appropriate information, such as pickup date and time, confirmation will be sent to the user. The company says they’ll send reminders 24 hours and then again at 30 minutes before the requested pickup time. 
+  
+ Advertisement 
+  
+ The driver’s information will be shared once a match is made, like the app currently does with unscheduled rides, Uber said. 
+  
+ The ability to schedule a ride is a complete turnaround for Uber. 
+  
+ According to Forbes in 2015, Uber’s Travis Kalanick told Salesforce Chief Executive Officer Marc Benioff that Uber had no plans to introduce a scheduling capability. 
+  
+ Roughly two weeks ago, ride-share rival Lyft also announced plans for testing ride-scheduling capabilities. According to an announcement posted May 23 on its blog, Lyft users in San Francisco can schedule rides up to 24 hours in advance. 
+  
+ Uder’s scheduling proposal comes on the heels of another announcement — guaranteed uberPOOL arrival time. 
+  
+ In a June 7 blog post, the company stated that uberPOOL users will see an “arrival time” estimate as opposed to the current travel time estimate. If you miss your “arrival time,” Uber will give you $2 off your next uberPOOL ride. 
+  
+ Currently, uberPOOL arrival time is only offered in Los Angeles, but the company hopes to expand it to other cities soon. 
+  
+ Uber said it also does not have a specific date to roll out the new uberPOOL feature in Boston. ||||| Seattle will be the first city where Uber offers scheduled rides to app users with a business profile. 
+  
+ Uber will allow riders to schedule a ride as early as 30 days in advance. 
+  
+ The new service will be first offered to business travelers in the Seattle area starting at 11 a.m. Thursday, though the company has promised quick expansion to other cities. 
+  
+ Hoping to please meticulous planners with loaded calendars, Tom Fallows, Uber’s director of global experiences, said the service is aimed at those who “want an extra degree of assurance Uber will be there when they head out,” such as travelers with early morning flights. 
+  
+ “They sleep better knowing their Uber ride is arranged,” Fallows said. 
+  
+ To schedule a trip, app users with a business profile choose a route and set a date and time. Scheduled rides are priced like a normal Uber ride and subject to surge pricing. 
+  
+ “If you’re requesting the ride at 8 a.m. on a Monday morning and it’s super high demand, surge may apply just like it normally would,” Fallows said. “We send riders a push notification on the way, notifying them if there’s any surge.” 
+  
+ Passengers can modify their scheduled rides before the driver has been dispatched. Once the push notification is sent and the driver is en route, users will have 5 minutes to cancel without penalty, Fallows said. 
+  
+ Initially, scheduled rides will be available only on UberX, but Fallows said the company plans to expand it to black cars and other Uber lines soon. 
+  
+ Uber chose to launch in Seattle because developers here built the system and the city has a lot of business travelers, Fallows said. 
+  
+ Although scheduling is a simple concept, Fallows said the architecture that runs the dispatching system requires complex algorithms that determine the right time to ask a driver to pick up a scheduled ride. 
+  
+ The algorithm weighs proximity, traffic obstacles and the likelihood a driver will accept a scheduled ride, among other factors. 
+  
+ The best driver for a given ride won’t always be the one nearest to the person requesting it, Fallows said. 
+  
+ For example, “We may know a driver who currently has a passenger in the car is headed to drop them off nearby your house or pickup location,” Fallows said. “The best driver to be offered your ride is not an available driver 10 blocks away, but is a driver who is currently occupied but will soon be free two blocks away.” 
+  
+ Fallows said Uber’s engineers in Seattle will be watching how the new feature is used and eager for feedback from customers. 
+  
+ “There’s nothing like having things happen in your own backyard to excite you about building and testing,” he said. |||||

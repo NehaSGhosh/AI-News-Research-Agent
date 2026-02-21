@@ -1,0 +1,35 @@
+Add a location to your Tweets 
+  
+ When you tweet with a location, Twitter stores that location. You can switch location on/off before each Tweet and always have the option to delete your location history. Learn more ||||| David Paul Morris / Getty Images Instead of sharing details of Twitter's plans to generate revenue, CEO Evan Williams disappointed techies at SXSW with yet another slick feature. Nicholas Ciarelli on why he's risking the future of his business. 
+  
+ In a way, this year's South by Southwest Interactive conference is the third birthday of Twitter, which first became popular there in 2007. But users who attended a keynote interview on Monday with the site's chief executive, Evan Williams, evidently expected birthday presents of their own. After Williams failed to offer new details on how the company plans to generate revenue, attendees headed for the door early and tweeted their gripes. 
+  
+ Williams opened by noting that his announcement was "not an ad platform, it's an 'at' platform," by way of introducing @anywhere, a feature that will allow visitors on Web sites such as Amazon or YouTube to use Twitter's functionality without leaving the sites. It's a slick feature, but to a certain extent the audience members were justified in being unimpressed. Williams said prospective Internet entrepreneurs should ask themselves "Wouldn't it be awesome if…?" And one now gets the sense that Twitter is focusing too much on being awesome instead of addressing the more difficult questions about the future of its business. 
+  
+ “We haven’t implemented many revenue-generating parts of Twitter yet, because there’s a lot we could do that’s sort of low-hanging fruit, but it’s not necessarily scalable or sustainable.” 
+  
+ The most difficult of those questions have been about Twitter's plans to generate revenue. The company has said it will launch a "fascinating," "non-traditional" advertising business in the near future, but has disclosed little else. Although it struck deals with Google and Bing to allow those sites to incorporate tweets into their search results—deals that will yield millions for Twitter—it has resisted announcing a long-term business model. 
+  
+ Instead, the company has focused its energies on improving the service, which now has more than 75 million users. Williams said Monday afternoon in Austin: "We haven't implemented many revenue-generating parts of Twitter yet, because there's a lot we could do that's sort of low-hanging fruit, but it's not necessarily scalable or sustainable." 
+  
+ Twitter also has been slow to embrace the technology trend du jour: mobile apps that take advantage of a user's location, such as Loopt, Google Latitude, Gowalla, and Foursquare. Last year's SXSW brought the launch of Foursquare, an app that lets users see where their friends are and earn points for "checking in" at bars and restaurants. Today Foursquare has more than 500,000 users and is quickly moving into the mainstream. 
+  
+ While a new Twitter feature lets a user add his or her location to a tweet, location has not traditionally been central to the service. "We didn't start with location but are making serious inroads with it right now," Williams said in a tweet after the event. "It will be a major part of Twitter soon." 
+  
+ It may have to be. Facebook is expected to announce its own location feature at a developer conference next month. And if Twitter doesn't present a strong enough alternative, users may simply head for the door. 
+  
+ Nicholas Ciarelli is the former publisher of Think Secret, an Apple news Web site. He currently works on the product team at The Daily Beast. 
+  
+ For More of The Daily Beast, become a fan on Facebook and follow us on Twitter. 
+  
+ For inquiries, please contact The Daily Beast at editorial@thedailybeast.com. ||||| In what was likely the most horrifically devastating keynote presentation in SXSW history--people were comparing it to the great Sarah Lacy-Mark Zuckerberg fiasco of 2008, but, hey, at least that was entertaining--moderator and Harvard Business Review blogger Umair Haque talked about his vacation, his blog, and generally himself, as he purportedly interviewed Twitter founder Evan Williams, who was so bored he checked his watch at one point, giving the slowly draining ballroom its sole laugh. 
+  
+ And, oh yeah, Williams unveiled an app that will allow people to access Twitter information on any site on the Internet. It's named @Anywhere. 
+  
+ For only about 60 seconds at the beginning of the keynote, Williams flipped through a few slides explaining the app that will allow content producers to embed Twitter data into any Web site. So say you wanted to know more about that company Twitter I mentioned in the last sentence: Hover over their name and one of the previously announced "hovercards" will pop up with all their Twitter account information (including all the wonderful reviews of that keynote). Or maybe, for example, you were really enjoying this blog post (thanks, I appreciate it), so you'd be able to hover up over my byline and start following me on Twitter without even leaving the site. Web sites will also be able to host lists of Twitter accounts, much like the staff lists we've created on the Twitter site itself. You'll also be able to sign into Web sites using your Twitter account, much like you can already do with Facebook. 
+  
+ To launch such a thing, Twitter has a dozen or so content partners from Bing and Digg to Huffington Post and The New York Times, who will begin embedding the new frameworks into their Web pages. This latest announcement will do nothing to help Twitter sell ads or otherwise monetize its content, as some had prognosticated. Instead, @Anywhere was created to save users time and clicks, and to help them find the content that's most relevant to them, faster. "Twitter is about creating better relationships," said Williams. "We're still focused on how to create the best experience." Which, to Williams, means keeping you as far away as possible from their own URL. "Our goal is not to increase the time you spend on the Twitter site." If only they could have reduced the time I spent at the Twitter keynote. Love the app, guys, but I would rather have heard about it @Anywhere but there. 
+  
+ [Twitter] 
+  
+ See more of Umair Hawue at Innovation Uncensored 2011. |||||

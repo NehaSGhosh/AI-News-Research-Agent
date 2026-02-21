@@ -1,0 +1,26 @@
+Although several companies have developed "super hi-vision" resolution test models, this is the first such TV to be made commercially available.
+The 8K format provides 16 times as many pixels as 1080p high definition. It creates an image so detailed that it can appear three-dimensional.
+However, the 85in (2.16m) device's 16m yen ($133,000; Â£86,000) price is likely to limit sales.
+Interest is expected to come mainly from broadcasters and other companies involved in testing the format.
+One analyst suggested it would not become a serious proposition for members of the public until the turn of the decade.
+"We're not expecting 8K TVs targeted at consumers to be released until at least 2016, and we don't expect they will cross one million units until after 2019," said Abhi Mallick, from IHS Technology.
+"Japan's NHK is the only broadcaster so far to announce plans to create and broadcast 8K content."
+But he added that the relatively small size of people's homes in Japan might mean many families would not be interested.
+"Japan's a region in which the average size of TVs sold tends to be smaller, and we think the minimum size 8K TVs would be sold at would be 65in."
+He added that for the time being, he expected manufacturers to focus their efforts on trying to convince families to buy 4K sets instead.
+They provide a quarter of the resolution of 8K, but are being made in sizes of up to about 100in to create "cinema-like" experiences in the home.
+Due to technological restraints, owners of Sharp's LV-85001 will have to use workarounds to take advantage of its full capabilities.
+Its built-in TV tuner cannot actually receive broadcasts in 8K. Instead, video has to be fed in via four separate HDMI cables, which are needed to handle the quantities of data involved.
+The resulting image delivers 104 pixels per inch.
+That is about a fifth of the density of modern high-end smartphone displays, but is more than enough to allow people to read relatively small-sized text or make out intricate details when standing close to the screen.
+While 8K content and 8K cameras are still rare, the Japanese news site AV Watch, which was first to report Sharp's TV, suggested the product could be used in hospitals to provide keyhole surgeons with better imagery.
+Each frame would contain the same detail as a 33.2 megapixel photo.
+Another expert suggested the tech might appeal to marketers.
+"The attraction will be for commercial applications - video walls and things like that," said Chris Green, a tech consultant at Davies Murphy Group.
+"8K screens could offer a very interesting video alternative to today's shop window and billboard displays - which show static advertising - because their extreme clarity means they can show lots of text and would be as readable as a poster."
+Japan's NHK streamed live 8K footage from last year's World Cup in Brazil and intends to begin public tests of the format over satellite in 2016.
+The corporation plans to show all of Tokyo's 2020 Olympic Games in 8K and begin regular broadcasts in super hi-vision resolution the same year.
+However, IHS Technology believes it could be China that drives initial demand for the technology.
+"China has had the fastest adoption of 4K televisions in the world - there is a demographic there of higher income consumers who want to buy TVs that will impress their neighbours," said Mr Mallick.
+"That's often regardless of whether they can accept the content.
+"Many of the early 4K TVs that were shipped into China lacked HDMI 2.0 ports, so they won't be able to receive 4K content that's since become available from set-top boxes."

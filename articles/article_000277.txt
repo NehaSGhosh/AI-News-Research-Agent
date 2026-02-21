@@ -1,0 +1,38 @@
+But there are strict rules about their usage, which has led some to come up with innovative ways to fly such vehicles more safely.
+"I'm using a dog leash for a small dog," says roboticist Sergei Lupashin as he demonstrates a new kind of consumer-friendly drone at the Ted (Technology, Entertainment and Design) conference in Vancouver.
+By tethering it, he hopes the Fotokite, as it is called, can avoid some of the issues faced by unmanned aerial vehicles (UAVs), which are banned without a special licence because of safety and privacy concerns.
+"It doesn't rely on GPS [ Global Positioning System], sophisticated machine vision, radio, it doesn't even use a compass. Most crashes today happen because of GPS, radio or piloting issues," says Dr Lupashin.
+"Should something happen, the leash gives a robust fail safe - the vehicle reduces thrust and it automatically comes back to the operator," he adds.
+The inspiration for the device came during street protests in Bolotnaya Square in Moscow, when he realised it could be an invaluable tool for reporting protests around the world.
+"For journalists it is good to get that perspective, to show the scale of the event without adding to the tension," says Dr Lupashin.
+But he also sees potential for amateur and professional photographers, archaeologists, architects and even as a toy for children.
+His prototype device uses a shop-bought quadrocopter with "a basic action camera attached" which, in turn, is connected to a standard dog lead. It can shoot both video and stills.
+Drones have long been associated with the military, but increasingly they are finding their way into civilian life, for a wide range of uses including delivering medicines in the developing world, for farming and as a low-cost way of getting broadband to remote parts of the world - something both Facebook and Google are actively pursuing.
+They are also useful tools for both professional and amateur photographers, providing the opportunity for a bird's eye view of people and places.
+"Aerial photography is a fascinating new application for small, unmanned vehicles but the remote-controlled ones are very complex and can be difficult to use. They are also dangerous," says Dr Lupashin.
+The safety issue took centre stage last month when an Australian triathlete was injured by an aerial drone taking pictures of the race she was competing in.
+A drone on a lead is likely to be treated with far less suspicion, says Dr Lupashin.
+"People treat you normally - it is like a flying pet. It always has a physical connection to the operator," he says.
+The BBC, along with other news organisations, already uses drones for filming, but it is constantly looking to update its kit.
+Andy Armstrong, a consultant looking at emerging broadcast technologies, recently tested the Fotokite for the BBC. Its ease of use and portability makes it useful for journalists in the field, he says.
+"Anyone who's walked a dog without losing it can operate Fotokite," he adds, although he notes that "to get really stable shots you need almost completely still air".
+Its lack of anonymity could also be a problem though.
+"There are certain scenarios where you wouldn't want to attract that much attention," he says.
+Jake Berger, a BBC programme manager, wanted a UAV that would be able to safely film aerial shots of the crowds at an open-air theatre show.
+"The fact that Fotokite was tethered - flown on a retractable dog leash - meant it was suitable," he says.
+"Unfortunately, the British weather confounded us on the day of the performance - it rained continuously for about six hours.
+"This would have both blown the electronics on Fotokite and risked electrocution from lightning."
+Currently the use of commercial drones in the US is banned by the Federal Aviation Authority (FAA). Anyone wishing to use one has to obtain a special licence.
+The question of whether a tethered drone would be exempt from this is unclear.
+According to Ben Gielow, general counsel for the Association for Unmanned Vehicles Systems Internet,  even a drone on a lead would be against the law.
+He says the FAA told one company that wanted to fly a tethered drone that "until we have new regulations in place, the only path for you to fly your aircraft in the National Airspace System (even tethered) is to obtain the special airworthiness certificate in the experimental category".
+Others though, who are developing similar tethered drones, say they have been told by the FAA that such UAVs would be exempt from current guidelines.
+The reality is that, in the US at least, there are no clear rules yet about the use of UAVs, tethered or not.
+"The FAA has been dragging its feet for four years and are now faced with an explosion of this technology. People can buy inexpensive, sophisticated systems off the internet and it doesn't have the resources to govern or control these unmanned aircraft," said Mr Gielow.
+There are guidelines governing the use of model aircraft in the US -  they must always be:
+This led the FAA to ban Texas-based search-and-rescue group EquuSearch from using a remote-controlled plane to help search for missing people.
+In response the group has launched legal action challenging the validity of an FAA ban and similar cases are also going through the courts.
+"Their frustration is that if they were using such an aircraft for fun it would be allowed but because they are using it for search and rescue it isn't," says Mr Gielow.
+The lack of clarity about the use of UAVs has led to anger among US manufacturers who fear being left behind by other countries, such as the UK, France and Israel, which have much clearer guidelines regarding drone use.
+The US Congress has given the FAA until 2015 to create such rules, and this month it opened its first test facility in North Dakota.
+But, for the time being at least, it seems that much about the use of such unmanned flying vehicles remains up in the air.

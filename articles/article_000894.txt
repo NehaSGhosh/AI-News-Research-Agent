@@ -1,0 +1,19 @@
+In a blogpost, security guru Bruce Schneier said "precisely calibrated" attacks on key net firms had been seen for over a year.
+The attacks sought weaknesses in the defences of organisations that oversaw critical parts of the net, he said.
+He said his "first guess" was that either China or Russia was behind the series of attacks.
+Responding to his comments, one security firm said the range of attacks he described was "the new normal" for many organisations.
+The hackers used well-known distributed denial of service (DDoS) attacks to probe defences, wrote Mr Schneier.
+These attacks typically seek to knock a site offline by overwhelming it with data. They are often used by extortionists who threaten to cripple a site via DDoS unless its owners pay a fee.
+Mr Schneier said the DDoS attacks observed against core net firms had a different character. To begin with they were "significantly larger" and lasted longer than most such attacks.
+They were also more sophisticated because the amount of data being directed at victims was slowly turned up. Often, he said, the peak data rate of one series of attacks would be the starting point for the next wave.
+The attackers also sought to find out what digital defences firms could muster by employing several different types of DDoS attack.
+"It's as if the attacker were looking for the exact point of failure," he said.
+Other attacks on the net's addressing system had also been seen that, together with the DDoS probes, revealed a worrying pattern, he said.
+"Someone is extensively testing the core defensive capabilities of the companies that provide critical internet services," he wrote.
+Mr Schneier did not reveal which firms had been hit in the attacks as the victims had shared information with him under a guarantee of anonymity.
+Information gathered on DDoS attacks by net giant Verisign lent weight to Mr Schneier's conclusions. In the latest edition of a regularly issued report, it said it had seen DDoS attacks become "more frequent, persistent and complex".
+Arbor Networks, which helps defend firms against DDoS attacks, said they had been growing in "frequency, volume, and sophistication" for many years.
+Roland Dobbins, principal engineer at Arbor, said it was "manifestly untrue" that only state-sponsored hackers could mount the most sophisticated and sizeable attacks.
+The constant hum of DDoS attacks that swept the net on a daily basis were kicked off by many different actors, he said.
+"Some are nation-state actors, some are affiliated with nation-states at arm's length, many are non-state ideological actors, and many are commercially driven criminal actors," said Mr Dobbins.
+"Irrespective of the identities and motivations of DDoS threat actors, successful defence is demonstrably possible against even the largest and most sophisticated DDoS attacks."

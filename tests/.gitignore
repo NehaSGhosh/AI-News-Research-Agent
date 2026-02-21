@@ -1,0 +1,10 @@
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+*.pyc
+__pycache__/
+*.db
+*.faiss
+test_*.db
+test_*.faiss
