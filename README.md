@@ -4,7 +4,7 @@
 
 This project is a Retrieval-Augmented Generation (RAG) news search and question-answering agent. It ingests local news articles, chunks and indexes them into a vector store, and uses an LLM to **dynamically control the query-to-response flow**, including deciding whether to request more context, ask for clarification, or provide the final answer.
 
-Note: The dataset used for this project contains the first 1001 files from [news-articles-corpus](https://www.kaggle.com/datasets/sbhatti/news-articles-corpus)
+Note: The dataset used for this project contains the first 1001 files from [news-articles-corpus](https://www.kaggle.com/datasets/sbhatti/news-articles-corpus).
 
 ## Features
 
