@@ -18,7 +18,7 @@ Note: The dataset used for this project contains the first 1001 files from [news
 
 ## Prerequisites
 
-- Python 3.11+
+- Python 3.10 or 3.11
 - OpenAI API key
 
 ## Setup
