@@ -138,7 +138,7 @@ class NewsSearchAgent:
                     f"LLM invocation failed. Check API key and network: {e}"
                 ) from e
 
-            if response_text.upper().startswith("ACTION:"):
+            if "ACTION:" in response_text.upper():
                 action = response_text.split("ACTION:")[-1].strip().upper()
 
                 if action == "RETRIEVE_MORE":
